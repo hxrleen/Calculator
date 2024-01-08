@@ -6,6 +6,11 @@ Welcome to my simple calculator project! 🧮
 
 This calculator is a basic web application created using HTML, CSS, and JavaScript. It's a great way to practice fundamental web development skills and get hands-on experience with frontend technologies.
 
+## Preview
+
+You can preview the project [here](https://htmlpreview.github.io/?https://github.com/hxrleen/Calculator/main/index.html).
+
+
 ## Features
 
 - **User-Friendly Interface**: The clean and intuitive design makes it easy for users to perform calculations.
